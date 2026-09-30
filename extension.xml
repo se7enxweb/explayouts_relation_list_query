@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" requires="ezpublish 6.0">
-  <name>explayouts_relation_list_query</name>
+  <name>Exponential Layouts Relation List Query</name>
   <summary>Relation list collection query handlers for Exponential Layouts on Exponential Legacy / Exponential 6, replacing netgen/layouts-ibexa-relation-list-query</summary>
   <version>1.0.1</version>
   <copyright>7x</copyright>
