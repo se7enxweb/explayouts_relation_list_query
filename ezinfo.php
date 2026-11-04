@@ -14,7 +14,7 @@ class explayouts_relation_list_queryInfo
     public static function info()
     {
         return array( 'Name' => "Exponential Layouts Relation List Query",
-                      'Version' => "1.0.4",
+                      'Version' => "1.0.5",
                       'Copyright' => "Copyright (C) 1998 - 2026 Exponential Foundation and 7x. All rights reserved.",
                       'License' => "GNU General Public License v2.0 (or any later version)",
                       'info_url' => "https://github.com/se7enxweb/explayouts_relation_list_query" );
